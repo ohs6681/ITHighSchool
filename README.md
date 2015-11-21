@@ -3,6 +3,16 @@ IT 정보 고등학교 Node js 강의 관련 소스 저장소
 
 ---
 
+## Git 사용법
+* Git Bash 를 실행시켜서 작업 폴더로 이동한다.
+* 'git status' 를 쳐보면 수정된 파일 목록이 나온다.
+* 'git add 파일명' 혹은 'git add . ' 을 해서 수정된 파일을 add한다.
+* 'git commit' 으로 변경사항을 하나의 묶음므로 만들고, 내용을 작성해서 ':wq' 하고 나온다.
+* 'git push origin master' 로 GitHub 에 'push' 한다.
+* [Git 설명서](https://marklodato.github.io/visual-git-guide/index-ko.html)
+
+---
+
 * 이름 : 혜나
 * 강의 : Node.js API 서버 만들기
 * 기타 : git 은 어려운 겁니다.
