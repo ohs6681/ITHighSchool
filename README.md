@@ -22,3 +22,12 @@ IT 정보 고등학교 Node js 강의 관련 소스 저장소
 ### Day 1
 * 오늘은 JavaScript 개발환경을 구축했다.
 * Node.js, Git, Sublime Text3 를 설치했다.
+
+### Day 2
+* 오늘은 JacaScript 기본을 배웠다.
+* Function 선언과 활용이 중요하다.
+
+### Day 3
+* 오늘은 JavaScript 함수를 복습했다.
+* 콜백함수를 실습했다.
+* 'Git'의 간단한 명령어에 대하여 학습했다.
